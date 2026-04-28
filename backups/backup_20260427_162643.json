@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260427_162643",
+  "total_bets": 2,
+  "bets": [
+    {
+      "id": 1,
+      "data": "2026-04-27T17:55:02.806170",
+      "entrada": 100.0,
+      "odd": 2.5,
+      "resultado": "green",
+      "lucro": 150.0,
+      "esporte": "futebol",
+      "liga": "serie_a"
+    },
+    {
+      "id": 2,
+      "data": "2026-04-27T18:24:51.071155",
+      "entrada": 100.0,
+      "odd": 2.5,
+      "resultado": "green",
+      "lucro": 150.0,
+      "esporte": "futebol",
+      "liga": "serie_a"
+    }
+  ]
+}

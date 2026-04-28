@@ -1,0 +1,66 @@
+{
+  "timestamp": "20260427_230744",
+  "total_bets": 6,
+  "bets": [
+    {
+      "id": 1,
+      "data": "2026-04-28T00:23:03.329920",
+      "entrada": 0.87,
+      "odd": 1.75,
+      "resultado": "green",
+      "lucro": 0.6525,
+      "esporte": "futebol",
+      "liga": "premier league"
+    },
+    {
+      "id": 2,
+      "data": "2026-04-28T00:24:20.927671",
+      "entrada": 0.5,
+      "odd": 2.25,
+      "resultado": "green",
+      "lucro": 0.625,
+      "esporte": "futebol",
+      "liga": "premier league"
+    },
+    {
+      "id": 3,
+      "data": "2026-04-28T00:25:35.525405",
+      "entrada": 0.5,
+      "odd": 1.9,
+      "resultado": "red",
+      "lucro": -0.5,
+      "esporte": "futebol",
+      "liga": "super lig"
+    },
+    {
+      "id": 4,
+      "data": "2026-04-28T02:02:50.695501",
+      "entrada": 0.5,
+      "odd": 1.71,
+      "resultado": "red",
+      "lucro": -0.5,
+      "esporte": "beisebol",
+      "liga": "mlb"
+    },
+    {
+      "id": 5,
+      "data": "2026-04-28T02:03:30.654497",
+      "entrada": 0.5,
+      "odd": 1.68,
+      "resultado": "red",
+      "lucro": -0.5,
+      "esporte": "beisebol",
+      "liga": "mlb"
+    },
+    {
+      "id": 6,
+      "data": "2026-04-28T02:04:20.840682",
+      "entrada": 1.0,
+      "odd": 1.68,
+      "resultado": "green",
+      "lucro": 0.6799999999999999,
+      "esporte": "beisebol",
+      "liga": "mlb"
+    }
+  ]
+}
